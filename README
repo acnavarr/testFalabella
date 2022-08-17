@@ -1,0 +1,9 @@
+se implementa un proyecto Maven para la solucion de la prueba, bajo el patron de diseño POM.
+
+en las pruebas automatizadas tenemos los casos referentes a la busqueda de un articulo en la pagina "https://www.falabella.com/falabella-cl".
+
+los casos automatizados son:
+
+1. Buscar elementos desde la barra de busqueda y validar que los resultados obtenidos correspondana ellos.
+2. Buscar elementos por medio del menu y submenu de la busqueda  validar que los resultados obtenidos correspondana ellos.
+3. Buscar elementos por la barra de busqueda ,filtrarlos por marca y validar los resultados
