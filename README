@@ -7,3 +7,8 @@ los casos automatizados son:
 1. Buscar elementos desde la barra de busqueda y validar que los resultados obtenidos correspondana ellos.
 2. Buscar elementos por medio del menu y submenu de la busqueda  validar que los resultados obtenidos correspondana ellos.
 3. Buscar elementos por la barra de busqueda ,filtrarlos por marca y validar los resultados
+
+
+Utilizamos serenty para el manejo de evidencicas:
+
+mnv serenity:aggregate y en la ruta "target/site/serenity/index.html" las evidencias
