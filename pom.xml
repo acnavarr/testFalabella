@@ -153,11 +153,6 @@
 					<includes>
 						<include>**/definitions/**/*Test.java</include>
 					</includes>
-
-					<systemProperties>
-						<webdriver.driver>${webdriver.driver}</webdriver.driver>
-					</systemProperties>
-
 				</configuration>
 			</plugin>
 		</plugins>
