@@ -8,6 +8,8 @@ los casos automatizados son:
 2. Buscar elementos por medio del menu y submenu de la busqueda  validar que los resultados obtenidos correspondana ellos.
 3. Buscar elementos por la barra de busqueda ,filtrarlos por marca y validar los resultados
 
+ejecutar:  mvn test -Dtest="RunnerFalabellaTags"
+
 
 Utilizamos serenty para el manejo de evidencicas:
 
